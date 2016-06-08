@@ -1,1 +1,1 @@
-# rd-integracao
+Integração com o RD Station PHP
